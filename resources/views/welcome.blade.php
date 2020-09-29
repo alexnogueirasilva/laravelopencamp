@@ -33,10 +33,10 @@
             <a class="navbar-brand" href="#">Hidden brand</a>
             <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="{{route('login')}}">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Link</a>
+                    <a class="nav-link" href="{{ Auth::logout() }}">Sair</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
@@ -52,7 +52,7 @@
                 <div class="card-body">
                 <img src="..." class="card-img-to" alt="Alanti">
                 <h5 class="card-title">Alanti Business</h5>
-                <p class="card-text">Sistema voltado para gestão de pedidos e licitação</p>
+                <p class="card-text">Sistema voltado para gestão de pedidos e licitação.</p>
                 <a href="#" class="btn btn-primary">Conheça</a>
                 </div>
             </div>
