@@ -1,4 +1,4 @@
-@include('inc.function')
+npm@include('inc.function')
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 <head>
@@ -11,6 +11,8 @@
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Nunito:400,600,700" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.bundle.min.js" integrity="sha256-xKeoJ50pzbUGkpQxDYHD7o7hxe0LaOGeguUidbq6vis=" crossorigin="anonymous"></script>
+
 
     <!-- Styles -->
     <link href="{{asset('css/app.css')}}" rel="stylesheet">
@@ -20,6 +22,6 @@
 @yield('content')
 
 @livewireScripts
-
+<script src="{{ asset('js/dashboard.js') }}" defer></script>
 </body>
 </html>
