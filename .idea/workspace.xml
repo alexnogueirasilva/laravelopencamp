@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ad3680e-bc70-4b99-873f-81881cf0b850" name="Default Changelist" comment="" />
+    <list default="true" id="3ad3680e-bc70-4b99-873f-81881cf0b850" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +14,14 @@
     <execution>
       <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="a9f04b7a-1f81-4440-b36f-9c5084b5e3fd" />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="a9ykm89w" />
@@ -145,12 +155,15 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1hdWBOaIpdugUNb1apw31V9Rv8J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -188,12 +201,27 @@
       <workItem from="1601037132839" duration="130000" />
       <workItem from="1601037323353" duration="15552000" />
       <workItem from="1601167450173" duration="41000" />
-      <workItem from="1601167523365" duration="4477000" />
+      <workItem from="1601167523365" duration="6789000" />
+      <workItem from="1601296126418" duration="614000" />
+      <workItem from="1601549305373" duration="58000" />
+      <workItem from="1601549433656" duration="610000" />
     </task>
+    <task id="LOCAL-00001" summary="Update from laravelopencamp">
+      <created>1601218600577</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601218600577</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update from laravelopencamp" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update from laravelopencamp" />
   </component>
   <component name="WindowStateProjectService">
     <state x="538" y="266" width="824" height="691" key="#CLI_Interpreters" timestamp="1600865392617">
@@ -204,6 +232,10 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="555" y="197" width="800" height="719" key="#Plugins/0.27.1920.1053@0.27.1920.1053" timestamp="1601037363444" />
+    <state x="506" y="46" width="898" height="1021" key="CommitChangelistDialog2" timestamp="1601218599793">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="506" y="46" width="898" height="1021" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1601218599793" />
     <state x="718" y="470" width="474" height="282" key="ComposerInitDialogKey" timestamp="1600865403835">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
@@ -232,9 +264,21 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="464" y="188" width="992" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1600713058879" />
+    <state x="555" y="285" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1601219387555">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="285" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1601219387555" />
     <state x="766" y="235" width="378" height="644" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600342205786">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="766" y="235" width="378" height="644" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1600342205786" />
+    <state x="763" y="469" width="393" height="175" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601219395660">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="763" y="469" width="393" height="175" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.1053@0.27.1920.1053" timestamp="1601219395660" />
+    <state x="764" y="463" width="381" height="187" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601218299194">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="764" y="463" width="381" height="187" key="git4idea.remote.GitConfigureRemotesDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1601218299194" />
   </component>
 </project>
